@@ -26,9 +26,8 @@ I'm passionate about developing solutions, I studied a period of graphic design,
 
 - 👨🏽‍💻 I’m currently looking for full time opportunities;
 - 🌱 I’m currently learning AdonisJs, Express and working on backend systems;
-- 👯 I am working on my website to help developers learn Data structures and Algorithms(comming soon);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: Anderson*Andrade*@outlook.com;
+- 📫 How to reach me: Anderson_Andrade_@outlook.com;
 
 **Languages and Tools:**
 
