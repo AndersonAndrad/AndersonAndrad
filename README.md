@@ -25,7 +25,7 @@ I'm passionate about developing solutions, I studied a period of graphic design,
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AndersonAndrad/AndersonAndrad/a9a4e129d35c9c63ebdada2713fbf6c0d7960b52/images/centerimage.svg" />
 
 - 👨🏽‍💻 I’m currently looking for full time opportunities;
-- 🌱 I’m currently learning Next.Js and working on backend systems;
+- 🌱 I’m currently learning AdonisJs, Express and working on backend systems;
 - 👯 I am working on my website to help developers learn Data structures and Algorithms(comming soon);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: Anderson*Andrade*@outlook.com;
