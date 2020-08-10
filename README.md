@@ -15,7 +15,7 @@
 
 <!--About you text-->
 
-I'm passionate about developing solutions, I studied a period of graphic design, where I learned programming and fell in love as soon as I met, I like technology events, podcast and all the content about. I like video games (the biggest reason I studied graphic design was to become a game developer) and I'm passionate about coffee.
+My name is **Anderson Andrade**, I study programming for a while now, I am passionate about technologies, I graduated in 2015 in **Graphic Designer** and in one of the active modules the introduction to game programming, I was introduced to **programming** languages ​​like Java by classmates and I went deep to discover this world that was said that allowed so many things, I went to college to have more knowledge and I graduated in systems analysis and development, it was during this period that I met several other course platforms, because I was faster than that the college could deliver me in one of these I met for a week **omnistack**, but I had no knowledge and I decided not to take any chances, with the passage of time I acquired access to other Rocketseat courses, today I work with **JavaScript** development, I am passionate about technologies and creating solutions, I love to learn more and more a new **technology**, if only to learn about the existence of the same if one day I need o, I always try to be evolving more and more and always pass on to others what **I learn**.
 
 <!-- Talking about you -->
 
