@@ -38,10 +38,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <a href="https://github.com/AndersonAndrad">
     <img width="50%" align="right" alt="AndersonAndrad github stats" src="https://github-readme-stats.vercel.app/api?username=AndersonAndrad&show_icons=true&hide_border=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonAndrad&icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
   </a>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+    <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -56,3 +58,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 </p>
+
+
+
