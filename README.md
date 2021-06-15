@@ -24,8 +24,7 @@ My name is **Anderson Andrade**, I study programming for a while now, I am passi
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AndersonAndrad/AndersonAndrad/a9a4e129d35c9c63ebdada2713fbf6c0d7960b52/images/centerimage.svg" />
 
-- 👨🏽‍💻 I’m currently looking for full time opportunities;
-- 🌱 I’m currently learning AdonisJs, Express and working on backend systems;
+- 🌱 I’m currently learning Nestjs, Express, Nextjs and working on backend and frontend systems;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: Anderson_Andrade_@outlook.com;
 
