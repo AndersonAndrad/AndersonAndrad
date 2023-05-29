@@ -33,10 +33,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <a href="https://github.com/AndersonAndrad">
   <img width="50%" align="left" alt="AndersonAndrad github stats" src="https://github-readme-stats.vercel.app/api?username=AndersonAndrad&show_icons=true&hide_border=true&theme=dark" />
 </a
-<br/>
-  
+<br>
 <a href="https://monkeytype.com/">
-  <img width="30%"  align="center"  alt="MonkeyType" src="https://raw.githubusercontent.com/AndersonAndrad/AndersonAndrad/master/images/monkeytype.gif"/>
+  <img width="30%"  align="right"  alt="MonkeyType" src="https://raw.githubusercontent.com/AndersonAndrad/AndersonAndrad/master/images/monkeytype.gif"/>
 </a>
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <span>I have no connection with the monkeytype website, the use of the image is completely unrelated</span>
