@@ -35,14 +35,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </a>
 
 <a href="https://monkeytype.com/">
-  <img width="30%"  align="right"  alt="MonkeyType" src="https://raw.githubusercontent.com/AndersonAndrad/AndersonAndrad/master/images/monkeytype.gif"/>
+  <img width="50%"  align="right"  alt="MonkeyType" src="https://raw.githubusercontent.com/AndersonAndrad/AndersonAndrad/master/images/monkeytype.gif"/>
 </a>
+
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<span>I have no connection with the monkeytype website, the use of the image is completely unrelated</span>
+
+I have no connection with the monkeytype website, the use of the image is completely unrelated
