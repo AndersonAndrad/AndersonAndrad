@@ -40,4 +40,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <br/>
 
-I have no connection with the monkeytype website, the use of the image is completely unrelated
+<span>
+I have no connection with the monkeytype website, the use of the image is completely unrelated</span>
